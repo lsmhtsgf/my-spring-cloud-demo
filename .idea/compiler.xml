@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-server" />
+        <module name="eureka-server" />
+        <module name="hello-server" />
+        <module name="my-web" />
+        <module name="mydemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hello-server" target="1.8" />
+      <module name="my-socket" target="1.8" />
+      <module name="my-web" target="1.8" />
+      <module name="mydemo" target="1.5" />
+      <module name="service-discovery" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
