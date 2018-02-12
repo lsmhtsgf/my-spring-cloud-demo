@@ -11,7 +11,7 @@ public class ConfigClientController {
     String foo;
 
     @RequestMapping(value = "/hi")
-    public String Hi() {
+    public String hi() {
         return foo;
     }
 }
