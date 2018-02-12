@@ -18,7 +18,7 @@ public class HiController {
 
     @RequestMapping(value = "/hello")
     public String hello(@RequestParam String name) {
-        return hiService.helloService(name);
+        return hiService.hello(name);
 //       return "Hello "+name+",you is using port:"+port;
     }
 
