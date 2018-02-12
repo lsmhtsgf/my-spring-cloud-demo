@@ -9,8 +9,11 @@
         <module name="demo-server" />
         <module name="eureka-server" />
         <module name="hello-server" />
+        <module name="my-spring-cloud-demo" />
         <module name="my-web" />
         <module name="mydemo" />
+        <module name="service-feign" />
+        <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,9 +21,12 @@
       <module name="eureka-server" target="1.8" />
       <module name="hello-server" target="1.8" />
       <module name="my-socket" target="1.8" />
+      <module name="my-spring-cloud-demo" target="1.5" />
       <module name="my-web" target="1.8" />
       <module name="mydemo" target="1.5" />
       <module name="service-discovery" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
