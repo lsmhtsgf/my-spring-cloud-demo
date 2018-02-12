@@ -3,16 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hello-server/hello-server.iml" filepath="$PROJECT_DIR$/hello-server/hello-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-server/hello-server.iml" filepath="$PROJECT_DIR$/hello-server/hello-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/my-spring-cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-web/my-web.iml" filepath="$PROJECT_DIR$/my-web/my-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-web/my-web.iml" filepath="$PROJECT_DIR$/my-web/my-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>
