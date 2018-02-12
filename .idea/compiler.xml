@@ -11,7 +11,6 @@
         <module name="hello-server" />
         <module name="my-spring-cloud-demo" />
         <module name="my-web" />
-        <module name="mydemo" />
         <module name="service-feign" />
         <module name="service-ribbon" />
       </profile>

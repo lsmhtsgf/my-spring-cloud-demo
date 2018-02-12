@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/my-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/my-spring-cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-web/my-web.iml" filepath="$PROJECT_DIR$/my-web/my-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
     </modules>
   </component>
